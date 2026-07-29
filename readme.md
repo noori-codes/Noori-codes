@@ -1,79 +1,96 @@
-<!-- =============================== -->
-<!--  IMX / IMRAN NOORI GITHUB README -->
-<!-- =============================== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1220,50:0E4D5C,100:0891B2&text=IMRAN%20NOORI&fontSize=44&fontColor=F8FAFC&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20IMX&descSize=15&descAlignY=58&descColor=94A3B8&animation=fadeIn" width="100%" alt="Imran Noori" />
 
-<h1 align="center">Hey, I'm Imran Noori (IMX) 👋</h1>
-<h3 align="center">Frontend Developer • Web Enthusiast • Linux User • Future Builder</h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=17&duration=3500&pause=1000&color=67E8F9&center=true&vCenter=true&width=560&lines=Building+end-to-end+web+applications;React+%7C+Next.js+%7C+Node.js" alt="tagline" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3500&pause=800&color=00C2FF&center=true&vCenter=true&width=600&lines=Building+clean+and+modern+web+apps;Learning+modern+web+development;Always+improving+my+skills;Linux+%7C+JavaScript+%7C+Open+Source" />
-</p>
+  <br />
 
----
+  <a href="https://noori.qzz.io"><img src="https://img.shields.io/badge/Portfolio-0B1220?style=for-the-badge&logo=googlechrome&logoColor=67E8F9" alt="Portfolio" /></a>
+  <a href="https://github.com/noori-codes"><img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=67E8F9" alt="GitHub" /></a>
+  <a href="https://www.youtube.com/@TechwithIMX"><img src="https://img.shields.io/badge/YouTube-0B1220?style=for-the-badge&logo=youtube&logoColor=FF4D4D" alt="YouTube" /></a>
+  <a href="https://www.linkedin.com/in/imran-noori-3b43a2378/"><img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+</div>
 
-## 🚀 About Me
+<br />
 
-- 💻 Passionate about **Web Development**
-- 🐧 Daily driver: **Ubuntu (Linux)**
-- 🌱 Currently learning **Next JS & modern web technologies**
-- 🎯 Goal: Build impactful platforms like top tech companies
-- 🎥 YouTube: *Tech with IMX*
-- ⚡ I love clean UI and smooth user experience
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0891B2&height=2&section=header" width="100%" alt="" />
 
----
+<br />
 
-## 🧠 Tech Stack
+<div align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,pug" />
-</p>
+### About
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,tailwind,photoshop" />
-</p>
+Full stack developer building end-to-end web applications.  
+Focused on clean UI, solid backend logic, and modern JavaScript.
 
----
+**[noori.qzz.io](https://noori.qzz.io)** · **[Tech with IMX](https://www.youtube.com/@TechwithIMX)**
 
-## 🔥 GitHub streaks
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Noori-codes&theme=tokyonight&hide_border=true" width="51%" />
-</p>
+<br />
 
----
+<div align="center">
 
-## 🌐 Connect With Me
+### Toolkit
 
-<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,tailwind" alt="stack" />
+<br />
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,pug,photoshop" alt="tools" />
 
-  <a href="https://github.com/Noori-codes">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+</div>
 
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<br />
 
-  <a href="https://www.youtube.com/@TechwithIMX">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
+<div align="center">
 
-  <a href="https://www.linkedin.com/in/imran-noori-3b43a2378/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+### Selected Work
 
-</p>
+</div>
 
-<p align="center">
-  <sub>Let’s connect and build something meaningful 🚀</sub>
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <h3>The Wild Oasis</h3>
+      <p>Full stack cabin booking dashboard</p>
+      <a href="https://github.com/noori-codes/the-wild-oasis"><img src="https://img.shields.io/badge/Code-0B1220?style=flat-square&logo=github&logoColor=67E8F9" alt="Code" /></a>
+      <a href="https://the-wild-oasis-eight-sooty.vercel.app"><img src="https://img.shields.io/badge/Live-0891B2?style=flat-square&logo=vercel&logoColor=white" alt="Live" /></a>
+    </td>
+    <td align="center" width="50%">
+      <h3>Omnifood</h3>
+      <p>Responsive food-delivery marketing site</p>
+      <a href="https://github.com/noori-codes/Omnifood"><img src="https://img.shields.io/badge/Code-0B1220?style=flat-square&logo=github&logoColor=67E8F9" alt="Code" /></a>
+      <a href="https://omnifood-ashen.vercel.app"><img src="https://img.shields.io/badge/Live-0891B2?style=flat-square&logo=vercel&logoColor=white" alt="Live" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>LaslesVPN</h3>
+      <p>Clean product landing page</p>
+      <a href="https://github.com/noori-codes/LaslesVPN"><img src="https://img.shields.io/badge/Code-0B1220?style=flat-square&logo=github&logoColor=67E8F9" alt="Code" /></a>
+      <a href="https://lasles-vpn-ecru-eight.vercel.app"><img src="https://img.shields.io/badge/Live-0891B2?style=flat-square&logo=vercel&logoColor=white" alt="Live" /></a>
+    </td>
+    <td align="center" width="50%">
+      <h3>Guess My Number</h3>
+      <p>Interactive game with vanilla JS</p>
+      <a href="https://github.com/noori-codes/Guess-My-Number-"><img src="https://img.shields.io/badge/Code-0B1220?style=flat-square&logo=github&logoColor=67E8F9" alt="Code" /></a>
+      <a href="https://guess-my-number-game-phi.vercel.app"><img src="https://img.shields.io/badge/Live-0891B2?style=flat-square&logo=vercel&logoColor=white" alt="Live" /></a>
+    </td>
+  </tr>
+</table>
 
----
+<br />
 
-## 💬 Random Quotes
+<div align="center">
 
-<p align="center">
-  <img 
-    src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&layout=default&font=Poppins&animation=fadeIn&bgColor=0d1117&border=false" 
-  />
-</p>
+### GitHub Streaks
+
+<img src="https://streak-stats.demolab.com/?user=noori-codes&theme=transparent&background=0B1220&ring=0891B2&fire=67E8F9&currStreakLabel=67E8F9&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=CBD5E1&dates=64748B&hide_border=true" width="520" alt="GitHub streak" />
+
+</div>
+
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0891B2,100:0B1220&section=footer" width="100%" alt="" />
+
+<p align="center"><sub>Open to collaboration · <a href="https://noori.qzz.io">noori.qzz.io</a></sub></p>
