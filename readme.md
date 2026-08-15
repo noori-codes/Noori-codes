@@ -34,7 +34,7 @@ Focused on clean UI, solid backend logic, and modern JavaScript.
 
 ### Toolkit
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,tailwind" alt="stack" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,tailwind,mongodb,postgresql" alt="stack" />
 <br />
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,pug,photoshop" alt="tools" />
 
