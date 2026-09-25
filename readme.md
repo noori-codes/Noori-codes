@@ -36,7 +36,7 @@ Focused on clean UI, solid backend logic, and modern JavaScript.
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,tailwind,mongodb,postgresql" alt="stack" />
 <br />
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,pug,photoshop" alt="tools" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,pug,photoshop" alt="tools" />
 
 </div>
 
@@ -51,35 +51,33 @@ Focused on clean UI, solid backend logic, and modern JavaScript.
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
-      <h3>The Wild Oasis</h3>
-      <p>Full stack cabin booking dashboard</p>
-      <a href="https://github.com/noori-codes/the-wild-oasis"><img src="https://img.shields.io/badge/Code-0B1220?style=flat-square&logo=github&logoColor=67E8F9" alt="Code" /></a>
-      <a href="https://the-wild-oasis-eight-sooty.vercel.app"><img src="https://img.shields.io/badge/Live-0891B2?style=flat-square&logo=vercel&logoColor=white" alt="Live" /></a>
+      <h3>LinkHub</h3>
+      <p>Full stack link-in-bio platform with themes & shop</p>
+      <a href="https://github.com/noori-codes/linkhub"><img src="https://img.shields.io/badge/Code-0B1220?style=flat-square&logo=github&logoColor=67E8F9" alt="Code" /></a>
+      <a href="https://linkhub-inky.vercel.app"><img src="https://img.shields.io/badge/Live-0891B2?style=flat-square&logo=vercel&logoColor=white" alt="Live" /></a>
     </td>
+    <td align="center" width="50%">
+      <h3>IMX OS</h3>
+      <p>Personal operating system for life & productivity</p>
+      <a href="https://github.com/noori-codes/imx-os"><img src="https://img.shields.io/badge/Code-0B1220?style=flat-square&logo=github&logoColor=67E8F9" alt="Code" /></a>
+      <a href="https://imx-os.vercel.app"><img src="https://img.shields.io/badge/Live-0891B2?style=flat-square&logo=vercel&logoColor=white" alt="Live" /></a>
+    </td>
+  </tr>
+  <tr>
     <td align="center" width="50%">
       <h3>Omnifood</h3>
       <p>Responsive food-delivery marketing site</p>
       <a href="https://github.com/noori-codes/Omnifood"><img src="https://img.shields.io/badge/Code-0B1220?style=flat-square&logo=github&logoColor=67E8F9" alt="Code" /></a>
       <a href="https://omnifood-ashen.vercel.app"><img src="https://img.shields.io/badge/Live-0891B2?style=flat-square&logo=vercel&logoColor=white" alt="Live" /></a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="50%">
       <h3>LaslesVPN</h3>
       <p>Clean product landing page</p>
       <a href="https://github.com/noori-codes/LaslesVPN"><img src="https://img.shields.io/badge/Code-0B1220?style=flat-square&logo=github&logoColor=67E8F9" alt="Code" /></a>
       <a href="https://lasles-vpn-ecru-eight.vercel.app"><img src="https://img.shields.io/badge/Live-0891B2?style=flat-square&logo=vercel&logoColor=white" alt="Live" /></a>
     </td>
-    <td align="center" width="50%">
-      <h3>Guess My Number</h3>
-      <p>Interactive game with vanilla JS</p>
-      <a href="https://github.com/noori-codes/Guess-My-Number-"><img src="https://img.shields.io/badge/Code-0B1220?style=flat-square&logo=github&logoColor=67E8F9" alt="Code" /></a>
-      <a href="https://guess-my-number-game-phi.vercel.app"><img src="https://img.shields.io/badge/Live-0891B2?style=flat-square&logo=vercel&logoColor=white" alt="Live" /></a>
-    </td>
   </tr>
 </table>
-
-<br />
 
 <div align="center">
 
